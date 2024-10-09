@@ -1,1 +1,3 @@
-[see here](<https://gitlab.cg.tu-berlin.de/sempro/cgp-ws21-navigating-4d/tree/master>)
+Computer Graphics project on navigating 4D space. 
+
+Download the repository and open the website to see the documentation 
